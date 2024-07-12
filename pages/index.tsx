@@ -30,7 +30,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
   return (
     <>
       <Head>
-        <title>Next.js Conf 2022 Photos</title>
+        <title>blockchain stuffs | explain like i'm five</title>
         <meta
           property="og:image"
           content="https://nextjsconf-pics.vercel.app/og-image.png"
@@ -102,34 +102,16 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        Thank you to{" "}
+        🔥 Thank you to{" "}
         <a
-          href="https://edelsonphotography.com/"
+          href="https://x.com/SuhailKakar"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Josh Edelson
-        </a>
-        ,{" "}
-        <a
-          href="https://www.newrevmedia.com/"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          Jenny Morgan
-        </a>
-        , and{" "}
-        <a
-          href="https://www.garysextonphotography.com/"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          Gary Sexton
+          Suhail Kakar
         </a>{" "}
-        for the pictures.
+        for these amazing visual explanations | explain like i'm five 🔥
       </footer>
     </>
   );
